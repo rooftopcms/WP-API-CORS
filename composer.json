@@ -1,0 +1,18 @@
+{
+  "name": "rooftopcms/WP-API-CORS",
+  "description": "Add permissive CORS headers to allow AJAX requests to Rooftop",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Rooftop CMS",
+      "email": "hello@rooftopcms.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://wpackagist.org"
+    }
+  ],
+  "type": "wordpress-muplugin"
+}
